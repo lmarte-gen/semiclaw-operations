@@ -543,10 +543,10 @@ Required components:
 
 ---
 
-# 📋 Weekly Template
+# 📋 Unit Template
 
 ```markdown
-## Week {{N}} — {{Title}}
+## Unit {{N}} — {{Title}}
 
 **Time Budget:** 5–8 hrs total
 
