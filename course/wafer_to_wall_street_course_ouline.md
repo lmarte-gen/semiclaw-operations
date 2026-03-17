@@ -44,7 +44,12 @@
 
 ### Unit 1 — Foundations & Ecosystem
 
-**Semiconductor Focus**: Semiconductor importance, mapping supply chain, industry roles, cyclical nature, business models.
+**Semiconductor Focus**: 
+- Importance of semiconductors in modern technology
+- Mapping the semiconductor supply chain 
+- Industry players and their roles (IDMs, foundries, fabless companies) 
+- Cyclical nature of semiconductors and market trends
+- Basic economics and business models
 
 **Financial Fluency**:
 
@@ -71,7 +76,12 @@
 
 ### Unit 2 — Manufacturing Process (FE/BE)
 
-**Semiconductor Focus**: Wafer fabrication, lithography, etch, yield management.
+**Semiconductor Focus**:
+- Silicon wafer production and prep
+- Front-end processes (photolithography, etching, doping)
+- Back-end processes (packaging, testing)
+- Manufacturing challenges, yield management, and bottlenecks
+- Moore’s Law: history, current status, and future projections
 
 **Financial Fluency**:
 
@@ -95,7 +105,12 @@
 
 ### Unit 3 — Resilience & Geopolitics
 
-**Semiconductor Focus**: Chokepoints, CHIPS Act, sanctions, resilience.
+**Semiconductor Focus**:
+- Geopolitical chokepoints (Taiwan, South Korea, rare earths)
+- Regional strategies (CHIPS Act, EU Chips Act, China’s drive, India/ASEAN)
+- Corporate mitigation (China+1, diversification, vertical integration)
+- Supply chain transparency challenges  
+- Case studies: COVID shortages, Huawei sanctions, US–China tech war
 
 **Financial Fluency**:
 
@@ -121,7 +136,12 @@
 
 ### Unit 4 — Technology Evaluation Frameworks
 
-**Semiconductor Focus**: Metrics, TRL, cost analysis, IP, risk frameworks.
+**Semiconductor Focus**:
+- Metrics and benchmarking methodologies
+- Cost analysis and economic viability
+- Technology readiness levels (TRLs)
+- Risk assessment frameworks
+- Intellectual property considerations
 
 **Financial Fluency**:
 
@@ -143,7 +163,12 @@
 
 ### Unit 5 — Hardware Innovation Cycles
 
-**Semiconductor Focus**: Innovation S-curves, EUV adoption, disruptive vs sustaining tech.
+**Semiconductor Focus**:
+- Innovation S-curves in semiconductors
+- Disruptive vs sustaining innovations
+- Technology adoption lifecycles
+- Case studies (EUV adoption, FinFET transition, Intel Itanium failure)
+- Identifying promising technologies early
 
 **Financial Fluency**:
 
@@ -167,7 +192,12 @@
 
 ### Unit 6 — Advanced Process Technologies
 
-**Semiconductor Focus**: Advanced nodes, chiplets, 3D stacking, High-NA EUV.
+**Semiconductor Focus**:
+- Advanced node scaling (5nm, 3nm, 2nm)
+- Alternative scaling (chiplets, 3D stacking)
+- New materials (GaN, SiC)
+- Advanced lithography (EUV, High-NA EUV)
+- Process variation and reliability
 
 **Financial Fluency**:
 
@@ -189,7 +219,12 @@
 
 ### Unit 7 — Emerging Trends & Challenges
 
-**Semiconductor Focus**: Thermal limits, interconnect, packaging, hetero integration.
+**Semiconductor Focus**:
+- Power and thermal constraints
+- Interconnect and packaging innovations
+- Memory-centric architectures
+- Heterogeneous integration
+- Quantum effects at advanced nodes
 
 **Financial Fluency**:
 
@@ -213,7 +248,12 @@
 
 ### Unit 8 — GPU Architecture & Alternatives
 
-**Semiconductor Focus**: GPU architecture, AI accelerator ecosystem.
+**Semiconductor Focus**:
+- GPU architecture fundamentals
+- NVIDIA’s dominance and ecosystem
+- Supply-demand dynamics in AI accelerators
+- Custom silicon vs general-purpose approaches
+- Emerging alternatives (Graphcore, Cerebras, Tenstorrent)
 
 **Financial Fluency**:
 
@@ -235,7 +275,12 @@
 
 ### Unit 9 — Essential Chip Categories
 
-**Semiconductor Focus**: Networking, memory, PMICs, MCUs, FPGAs.
+**Semiconductor Focus**:
+- Networking chips & interconnects
+- Memory technologies (DRAM, NAND, HBM)
+- Microcontrollers for edge AI
+- Power management ICs
+- FPGAs and reconfigurable computing
 
 **Financial Fluency**:
 
@@ -257,7 +302,12 @@
 
 ### Unit 10 — AI Chip Landscape
 
-**Semiconductor Focus**: Training vs inference chips, edge silicon.
+**Semiconductor Focus**: 
+- Training vs inference architectures
+- Domain-specific accelerators
+- Edge AI silicon requirements
+- Performance/watt trade-offs
+- AI supply-demand crunch (TSMC capacity, HBM shortages)
 
 **Financial Fluency**:
 
@@ -281,7 +331,9 @@
 
 ### Unit 11 — Beyond Traditional Computing
 
-**Semiconductor Focus**: Neuromorphic, photonic, analog computing.
+**Semiconductor Focus**:
+- Neuromorphic, photonic, analog, in-memory, probabilistic computing
+- Early-stage supply chain signals (research hubs, CAPEX trends, patents)
 
 **Financial Fluency**:
 
@@ -303,7 +355,11 @@
 
 ### Unit 12 — Beyond Silicon
 
-**Semiconductor Focus**: Quantum, CNTs, 2D materials, spintronics.
+**Semiconductor Focus**:
+- Quantum computing
+- Post-silicon materials (CNTs, 2D materials)
+- Spintronics, molecular computing
+- Exotic supply chain considerations
 
 **Financial Fluency**:
 
@@ -327,7 +383,12 @@
 
 ### Unit 13 — AI Development Pipeline
 
-**Semiconductor Focus**: Data, training infra, inference deployment, MLOps.
+**Semiconductor Focus**:
+- Data collection and preparation
+- Model development & training infra
+- Inference deployment strategies
+- MLOps lifecycle
+- AI hardware–software co-design
 
 **Financial Fluency**:
 
@@ -349,7 +410,12 @@
 
 ### Unit 14 — AI Application Domains
 
-**Semiconductor Focus**: LLMs, robotics, AI for science and industry.
+**Semiconductor Focus**:
+- LLMs and generative AI
+- Robotics and autonomous systems
+- AI for scientific discovery
+- Industry-specific AI applications
+- AI-driven semiconductor demand
 
 **Financial Fluency**:
 
@@ -373,7 +439,12 @@
 
 ### Unit 15 — Technology Assessment for Investment
 
-**Semiconductor Focus**: Investment frameworks, ROI, due diligence.
+**Semiconductor Focus**:
+- Metrics for assessment
+- Due diligence frameworks
+- Red flags & risk indicators
+- Cost estimation methodologies
+- ROI models
 
 **Financial Fluency**:
 
@@ -395,7 +466,11 @@
 
 ### Unit 16 — Future-Proofing Strategies
 
-**Semiconductor Focus**: Scenario planning, resilience, disruption (Taiwan).
+**Semiconductor Focus**:
+- Roadmapping & scenario planning
+- Strategies for resilience in volatile supply chains
+- Balancing innovation vs practical implementation
+- Building durable competitive advantages
 
 **Financial Fluency**:
 
