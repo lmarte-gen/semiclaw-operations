@@ -1,0 +1,49 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "company.json",
+  "description": "Schema for the Company Profile containing financial and operational data extracted from SEC filings.",
+  "type": "object",
+  "required": [
+    "ticker",
+    "business_model",
+    "gross_margin_percent",
+    "capex",
+    "citations"
+  ],
+  "properties": {
+    "ticker": {
+      "type": "string",
+      "description": "Stock ticker symbol (e.g., TSM, ASML, NVDA)"
+    },
+    "business_model": {
+      "type": "string",
+      "enum": ["IDM", "Fabless", "Foundry", "WFE", "EDA", "OSAT", "IP", "Other"],
+      "description": "The primary semiconductor business model category."
+    },
+    "gross_margin_percent": {
+      "type": "number",
+      "description": "Gross margin percentage reported in the latest filing."
+    },
+    "capex": {
+      "type": "number",
+      "description": "Capital expenditure reported (in absolute base currency)."
+    },
+    "citations": {
+      "type": "object",
+      "description": "Exact source citations from the 10-K/20-F filing. MUST include the exact page number.",
+      "required": [
+        "gross_margin_page"
+      ],
+      "properties": {
+        "gross_margin_page": {
+          "type": "string",
+          "description": "Exact page number from the 10-K/20-F where the Gross Margin is stated. Fail evaluation if hallucinated or missing."
+        },
+        "capex_page": {
+          "type": "string",
+          "description": "Exact page number from the 10-K/20-F where the Capex is stated."
+        }
+      }
+    }
+  }
+}
